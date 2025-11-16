@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Sharma (AKS)
 
-<!--
-**abhisheksharma-aks/abhisheksharma-aks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 IT Support Engineer | Windows & Linux Troubleshooting | Networking | Bash & Python | Azure (AZ-900 Preparing)
 
-Here are some ideas to get you started:
+I'm an aspiring IT Support Engineer building practical skills through home labs, scripting, Linux practice, cloud learning, and Git/GitHub workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I document my learning journey here — through small, meaningful projects that show real troubleshooting and automation experience.
+
+---
+
+## 🚀 What I'm Working On
+- Windows & Linux troubleshooting practice  
+- Bash & Python automation scripts  
+- Azure Fundamentals (AZ-900 Prep)  
+- Networking basics & tools  
+- Cloud services using Azure & AWS  
+- Git/GitHub version control projects  
+
+---
+
+## 🛠️ Technical Skills
+- **Operating Systems:** Windows, Linux (Ubuntu/Debian)  
+- **Networking:** DNS, DHCP, TCP/IP, Routing  
+- **Scripting:** Bash, Python  
+- **Tools:** Git, GitHub, Jira, Zendesk, Freshdesk  
+- **Cloud:** Azure (Preparing AZ-900), AWS basics  
+- **Other:** Remote Support, System Monitoring, Troubleshooting  
+
+---
+
+## 📌 Featured Projects
+### 🔹 Bash Automation Scripts  
+System maintenance automation for Linux & WSL.  
+➡️ https://github.com/abhisheksharma-aks/bash-automation-scripts
+
+### 🔹 Python Log Parser  
+Extracts and summarizes log file errors for troubleshooting.  
+➡️ *(Add repo link once created)*
+
+### 🔹 Linux Lab Notes  
+Commands, troubleshooting steps, and practice work.  
+➡️ *(Add repo link once created)*
+
+### 🔹 Git Practice Repository  
+Branches, commits, merges, version control exercises.  
+➡️ *(Add repo link once created)*
+
+---
+
+## 🌐 Connect With Me
+📧 Email: **abhisheksharma.aks@outlook.com**  
+🔗 LinkedIn: *(Add your new LinkedIn link)*  
+📍 Kochi, Kerala  
+💼 Open to Remote IT Support Roles
+
+---
+
+## 🧠 Fun Fact  
+I love automating repetitive tasks and turning manual troubleshooting steps into scripts.

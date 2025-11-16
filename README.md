@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Sharma (AKS)
+# 👋 Hi, I'm Abhishek Sharma
 
 ### 💻 IT Support Engineer | Windows & Linux Troubleshooting | Networking | Bash & Python | Azure (AZ-900 Preparing)
 

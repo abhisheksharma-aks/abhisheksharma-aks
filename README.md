@@ -50,7 +50,7 @@ Branches, commits, merges, version control exercises.
 ## 🌐 Connect With Me
 📧 Email: **abhisheksharma.aks@outlook.com**  
 🔗 LinkedIn: *(https://www.linkedin.com/in/abhisheksharma1225)*
-📍 Kochi, Kerala  
+📍 Kannur, Kerala  
 💼 Open to Remote IT Support Roles
 
 ---

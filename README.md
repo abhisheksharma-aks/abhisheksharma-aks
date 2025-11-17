@@ -35,7 +35,7 @@ System maintenance automation for Linux & WSL.
 
 ### 🔹 Python Log Parser  
 Extracts and summarizes log file errors for troubleshooting.  
-➡️ *(Add repo link once created)*
+➡️ https://github.com/abhisheksharma-aks/python-log-parser
 
 ### 🔹 Linux Lab Notes  
 Commands, troubleshooting steps, and practice work.  

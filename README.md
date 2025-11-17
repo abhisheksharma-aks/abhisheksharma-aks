@@ -39,11 +39,11 @@ Extracts and summarizes log file errors for troubleshooting.
 
 ### 🔹 Linux Lab Notes  
 Commands, troubleshooting steps, and practice work.  
-➡️ *(Add repo link once created)*
+➡️ Ongoing
 
 ### 🔹 Git Practice Repository  
 Branches, commits, merges, version control exercises.  
-➡️ *(Add repo link once created)*
+➡️ Ongoing
 
 ---
 

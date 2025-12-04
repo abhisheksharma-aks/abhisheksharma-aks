@@ -37,9 +37,9 @@ System maintenance automation for Linux & WSL.
 Extracts and summarizes log file errors for troubleshooting.  
 ➡️ https://github.com/abhisheksharma-aks/python-log-parser
 
-### 🔹 Linux Lab Notes  
-Commands, troubleshooting steps, and practice work.  
-➡️ Ongoing
+### 🔹 Automated User Onboarding Script  
+User creation, password enforcements, group assignment, logging.  
+➡️ https://github.com/abhisheksharma-aks/it-supports-scripts
 
 ### 🔹 Git Practice Repository  
 Branches, commits, merges, version control exercises.  
